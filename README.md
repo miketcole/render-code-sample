@@ -1,4 +1,4 @@
-# Michael Cole Code Sample for Second Dinner
+# Michael Cole Offline Render Code Sample
 
 These code files are parts of the larger system I built at Candy Digital for rendering out static media. Candy Digital makes collectibles in Unity that are sold as NFTs. Since a user may be unable to view the Unity player in their browser or may be viewing their NFT outside of Candy Digital's platform there must be some form of static image or video for every collectible. During my time at Candy Digital, I re-wrote their mechanism for rendering out these pieces of media to achieve a precise repeatable result that was highly configurable and able to run both from a user's machine via a GUI and via the command line.
 
